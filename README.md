@@ -24,7 +24,7 @@ Here’s a little about me:
 
 - 
 ## 🛠 Skills & Tools
-- 🎓 **7th Semerster Student of Bsc.CSIT**.
+- 🎓 **8th Semerster Student of Bsc.CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
 - Frameworks & Libraries:**React  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
 - Programming Languages:**JavaScript, c, c++, php, c#. currently learning Java**
